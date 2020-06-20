@@ -1,0 +1,8 @@
+ports:
+- port: 8080
+  onOpen: open-preview
+# start up tasks
+tasks:
+- init: ./mvnw package -DskipTests
+  command: mv banco.sqlite target/bin/
+  command: ./target/bin/webapp
