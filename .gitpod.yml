@@ -3,5 +3,5 @@ ports:
   onOpen: open-preview
 # start up tasks
 tasks:
-- init: ./mvnw package -DskipTests -X
+- init: ./mvnw install
   command: mv banco.sqlite ./target/bin/ && ./target/bin/webapp
