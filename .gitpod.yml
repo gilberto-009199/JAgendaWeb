@@ -4,5 +4,4 @@ ports:
 # start up tasks
 tasks:
 - init: ./mvnw package -DskipTests
-  command: mv banco.sqlite target/bin/
-  command: ./target/bin/webapp
+  command: mv banco.sqlite ./target/bin/ && ./target/bin/webapp
