@@ -9,8 +9,8 @@
  Utilize o maven para compilar o programa ao final ele vai gera um arquivo jar executavel
 ```
  mvn install
- cd target
- java -jar *.jar
+ mv banco.sqlite ./target/bin/
+ ./target/bin/webapp
 ```
 
 ## Bibliotecas
