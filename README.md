@@ -17,10 +17,16 @@
 ## How Run:
 
  Utilize o maven para compilar o programa ao final ele vai gera um arquivo jar executavel
+### docker:
+```shell
+$ docker compose up
 ```
- mvn install
- mv banco.sqlite ./target/bin/
- ./target/bin/webapp
+
+### maven:
+```shell
+$ mvn install
+$ mv banco.sqlite ./target/bin/
+$ ./target/bin/webapp
 ```
 
 ## Bibliotecas
