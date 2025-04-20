@@ -14,7 +14,8 @@
 
  Agenda de contatos web feita com [JSP](https://www.javafree.org/artigo/868717/JSP-Java-Server-Pages.html),[Bootstrap](https://getbootstrap.com) e [Jquery](https://jquery.com).
 
-# Compilação e execução( Build )
+## How Run:
+
  Utilize o maven para compilar o programa ao final ele vai gera um arquivo jar executavel
 ```
  mvn install
