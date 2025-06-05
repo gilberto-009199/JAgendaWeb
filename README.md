@@ -6,11 +6,11 @@
 
 
 
-<img align="right" src="./assets/java16x16.svg" alt="Java" width="48px"/>
-<img align="right" src="./assets/servelt16x16.svg" alt="Servlet" width="48px"/>
-<img align="right" src="./assets/docker16x16.svg" alt="Docker" width="48px"/>
-<img align="right" src="./assets/jquery.svg" alt="JQuery" width="48px"/>
-<img align="right" src="./assets/bootstrap.svg" alt="Bootstrap" width="48px"/>
+<img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/java16x16.svg" alt="Java" width="48px"/>
+<img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/servelt16x16.svg" alt="Servlet" width="48px"/>
+<img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/docker16x16.svg" alt="Docker" width="48px"/>
+<img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/jquery.svg" alt="JQuery" width="48px"/>
+<img align="right" src="https://filedn.com/l3HMwWFeFPE7q4xHdixbsqH/github.assets/bootstrap.svg" alt="Bootstrap" width="48px"/>
 
  Agenda de contatos web feita com [JSP](https://www.javafree.org/artigo/868717/JSP-Java-Server-Pages.html),[Bootstrap](https://getbootstrap.com) e [Jquery](https://jquery.com).
 
